@@ -1,0 +1,73 @@
+{
+  "week": "2026-W25",
+  "collectedAt": "2026-06-15T17:29:45.734Z",
+  "windowStart": "2026-06-15T00:00:00.000Z",
+  "windowEnd": "2026-06-22T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Robotic rabbit learns users' voices on first greeting, enabling personalized elder care",
+      "url": "https://techxplore.com/news/2026-06-robotic-rabbit-users-voices-enabling.html",
+      "summary": "The Social Robotics Group of the Robotics Lab at the Universidad Carlos III de Madrid (UC3M) has developed an AI-based methodology that allows a pet-type assistive robot to recognize the people it interacts with.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/robotic-pet-rabbit-rec.jpg",
+      "publishedAt": "2026-06-15T14:20:04.000Z",
+      "score": 36,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "QERRA-v2 Classical — deterministic ethical + physical-safety evaluation for Behavior Trees (no ROS2 build required)",
+      "url": "https://discourse.openrobotics.org/t/qerra-v2-classical-deterministic-ethical-physical-safety-evaluation-for-behavior-trees-no-ros2-build-required/55483",
+      "summary": "HELLO ROS COMMUNITY! I’ve been building an open-source project called QERRA-v2 Classical — a deterministic, fully explainable ethical evaluation layer (SEMEV-12, 12 vectors covering things like coercion, autonomy violation, harm intent) plus a lightweight...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/slightly_smiling_face.png?v=15",
+      "publishedAt": "2026-06-15T07:30:11.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "AI, Robotics and Automated Mining: The Future of Excavators and Mining Machinery Parts",
+      "url": "https://roboticsandautomationnews.com/2026/06/15/ai-robotics-and-automated-mining-the-future-of-excavators-and-mining-machinery-parts/102555/",
+      "summary": "The global mining industry is embracing profound transformation driven by artificial intelligence, robotics and full automation.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-15T13:28:39.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/giant-mining-vehicles-1.jpeg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Entangled robotic matter with cohesive motion",
+      "url": "https://robohub.org/entangled-robotic-matter-with-cohesive-motion/",
+      "summary": "By Syl Kacapyr Cornell engineers have developed a robotic collective that behaves less like a machine and more like a material that flows, reshapes and adapts to its environment without centralized control.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-06-15T10:06:23.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-10.38.29-1024x766.jpeg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Interview: Parallel Systems CEO Matt Soule on building ‘the world’s first autonomous freight rail system’",
+      "url": "https://roboticsandautomationnews.com/2026/06/15/interview-parallel-systems-ceo-matt-soule-on-building-the-worlds-first-autonomous-freight-rail-system/102545/",
+      "summary": "Autonomous trucks have dominated discussion around the future of freight transportation for much of the past decade, attracting billions of dollars in investment and extensive media attention.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-15T08:52:31.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/parallel-systems-carriages-1.jpg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "ASI Releases CEO Playbook for Scaling Autonomy Across Industrial Operations",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/06/15/asi-releases-ceo-playbook-for-scaling-autonomy-across-industrial-operations/26712",
+      "summary": "New White Paper Delivers a Proven Roadmap to Move from Pilot to Full-scale Automation.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-06-15T12:58:32.000Z",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
