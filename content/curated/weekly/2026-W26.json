@@ -1,0 +1,73 @@
+{
+  "week": "2026-W26",
+  "collectedAt": "2026-06-22T17:15:33.602Z",
+  "windowStart": "2026-06-22T00:00:00.000Z",
+  "windowEnd": "2026-06-29T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Interview with Digid’s Nils Könne and Christian Kreil: Nanoscale sensors could help solve robotics’ tactile sensing challenge",
+      "url": "https://roboticsandautomationnews.com/2026/06/22/interview-with-digids-nils-konne-and-christian-kreil-nanoscale-sensors-could-help-solve-robotics-tactile-sensing-challenge/102702/",
+      "summary": "The rapid rise of artificial intelligence and robotics has focused attention on software, large language models, and increasingly powerful processors.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-22T11:30:15.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/digid-needle.png",
+      "score": 46,
+      "selectionReason": "noticia de competencia, idea técnica construible"
+    },
+    {
+      "title": "Interview with Sharpa’s Alicia Veneziani: ‘Dexterous manipulation is the key to useful humanoid robots’",
+      "url": "https://roboticsandautomationnews.com/2026/06/22/interview-with-sharpas-alicia-veneziani-dexterous-manipulation-is-the-key-to-useful-humanoid-robots/102683/",
+      "summary": "Much of the recent excitement surrounding humanoid robots has focused on increasingly impressive demonstrations of walking, running, jumping, and balancing. Yet many robotics experts argue that locomotion, while important, is only part of the challenge.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-22T08:47:00.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/sharpa-humanoid-1.png",
+      "score": 46,
+      "selectionReason": "noticia de competencia, idea técnica construible"
+    },
+    {
+      "title": "Interview with Clearpath Robotics co-founder Ryan Gariepy: ‘Most industries in Canada are under-automated’",
+      "url": "https://roboticsandautomationnews.com/2026/06/22/interview-with-clearpath-robotics-co-founder-ryan-gariepy-most-industries-in-canada-are-under-automated/102695/",
+      "summary": "Canada has long been recognized for its contributions to robotics research, producing world-class universities, pioneering robotics startups, and innovative technologies that have found applications across manufacturing, logistics, agriculture, mining, and...",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-22T09:43:15.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/clearpath-robotics-1.jpg",
+      "score": 32,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "45+ open robotics roles needed worldwide: ROS 2, C++/Python, simulation, autonomy, computer vision",
+      "url": "https://discourse.openrobotics.org/t/45-open-robotics-roles-needed-worldwide-ros-2-c-python-simulation-autonomy-computer-vision/55617",
+      "summary": "SoftServe is looking for dozens of robotics specialists worldwide, with 45 jobs already open and more coming soon. The roles cover different levels, but most of the current demand is for middle, senior, and lead engineers.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-06-22T15:17:26.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Sw2robot — a SolidWorks → URDF exporter with a browser-based editor (free Windows .exe)",
+      "url": "https://discourse.openrobotics.org/t/sw2robot-a-solidworks-urdf-exporter-with-a-browser-based-editor-free-windows-exe/55616",
+      "summary": "Hi all, I’d like to share sw2robot , an open-source tool that turns a SolidWorks assembly into a ready-to-use URDF and then lets you clean it up in your browser. Repo: GitHub - jsk-ros-pkg/solidworks_urdf_exporter2: Solidworks to robot (urdf) converter.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/file_cabinet.png?v=15",
+      "publishedAt": "2026-06-22T15:16:00.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Cobot Announces Second-Generation Proxie, Bringing Production-Tested Physical AI to Real Operations",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/06/22/cobot-announces-second-generation-proxie-bringing-production-tested-physical-ai-to-real-operations/26756",
+      "summary": "One production-tested platform combines mobility, bimanual manipulation, and self-directed task execution, deploying in days with no IT integration and no human dispatcher.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-06-22T14:27:14.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
