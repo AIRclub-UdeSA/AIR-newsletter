@@ -1,0 +1,60 @@
+{
+  "week": "2026-W27",
+  "collectedAt": "2026-06-29T16:22:29.860Z",
+  "windowStart": "2026-06-29T00:00:00.000Z",
+  "windowEnd": "2026-07-06T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "A Standard Interface from LLM to Robot Actions",
+      "url": "https://discourse.openrobotics.org/t/a-standard-interface-from-llm-to-robot-actions/55894",
+      "summary": "Hi ROS community, I’m working on ClawsJoy Robotics, a proposal for a standard interface between LLM-based cognitive systems and ROS/2 robots. The core idea: any LLM outputs an action, any robot implements these standard topics.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/white_check_mark.png?v=15",
+      "publishedAt": "2026-06-29T14:28:10.000Z",
+      "score": 42,
+      "selectionReason": "fecha o inscripción accionable, idea técnica construible"
+    },
+    {
+      "title": "WIRobotics Begins Building a Physical AI Development Ecosystem: The First Technology Release Features the ALLEX Simulation Model",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/06/29/wirobotics-begins-building-a-physical-ai-development-ecosystem-the-first-technology-release-features-the-allex-simulation-model/26782",
+      "summary": "-Additional core ALLEX technologies to be released sequentially -Expanding the Physical AI development ecosystem through high-fidelity Sim-to-Real validation -Building an open Physical AI development ecosystem for researchers and robotics developers.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-06-29T13:04:16.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "How AI Navigation is Improving the Performance of Robotic Pool Cleaners",
+      "url": "https://roboticsandautomationnews.com/2026/06/29/how-ai-navigation-is-improving-the-performance-of-robotic-pool-cleaners/102911/",
+      "summary": "Robotic pool cleaners used to be judged mostly by suction, brushes, and how much debris they could collect. Those things still matter, but they are no longer the whole performance story. The bigger shift is navigation.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-29T15:07:07.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/beatbot-robotic-pool-cleaner-1.jpeg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Humanoid Announces its KinetIQ Ascend Reinforcement Learning Approach",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/06/29/humanoid-announces-its-kinetiq-ascend-reinforcement-learning-approach/26785",
+      "summary": "The new system was tested on several tasks, including picking parts from bins, handing objects to humans, and lifting and moving containers using both arms. It has proven effective across a range of manipulation scenarios.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-06-29T14:58:28.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Danish robotics startup enters the industrial truck market already crowned a winner",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/06/29/danish-robotics-startup-enters-the-industrial-truck-market-already-crowned-a-winner/26784",
+      "summary": "The Mobile Robot Company has won the IFOY Industrial Truck of the Year Award 2026 for a self-driving pallet jack designed to keep warehouse operators in control while automating repetitive transport work.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-06-29T13:08:26.000Z",
+      "score": 18,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
