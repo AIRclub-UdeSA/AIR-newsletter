@@ -1,0 +1,62 @@
+{
+  "week": "2026-W30",
+  "collectedAt": "2026-07-20T14:37:00.154Z",
+  "windowStart": "2026-07-20T00:00:00.000Z",
+  "windowEnd": "2026-07-27T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Generative Bionics Introduces Gene.01, a Fully Functional Smart-Skin Humanoid Robot Platform Designed for Safe Human Collaboration",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/07/20/generative-bionics-introduces-gene01-a-fully-functional-smart-skin-humanoid-robot-platform-designed-for-safe-human-collaboration/26860",
+      "summary": "Built in six months, Gene.01 senses touch, proximity, force, and temperature, and it is released with its open-sourced robot model that gives Physical AI developers a shared starting point to build industrial applications.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-07-20T13:09:41.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "AGIBOT unveils four new robots at WAIC 2026 as it expands industrial embodied AI portfolio",
+      "url": "https://roboticsandautomationnews.com/2026/07/20/agibot-unveils-four-new-robots-at-waic-2026-as-it-expands-industrial-embodied-ai-portfolio/103505/",
+      "summary": "AGIBOT has unveiled four new robotics products at the World Artificial Intelligence Conference (WAIC) 2026 in Shanghai, expanding its portfolio of humanoid robots, industrial automation systems and dexterous robotic hands while highlighting its growing...",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-07-20T13:01:00.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/AGIBOT-A3-Ultra-Dance-Performance.jpg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Interactive world simulator for robot policy training and evaluation",
+      "url": "https://robohub.org/interactive-world-simulator-for-robot-policy-training-and-evaluation/",
+      "summary": "Imagine you want to teach a robot to push an object on a table. The standard recipe in robot learning is to collect hundreds of expert demonstrations on a real robot, train an imitation learning policy on that data, and then evaluate the policy by running it...",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-07-20T08:39:44.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-17.20.49-2048x1101-1-1024x551.png",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data.",
+      "source": "MIT Technology Review - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T08:39:01.000Z",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    },
+    {
+      "title": "Community feedback wanted: Intuitive robotics math and paper walkthroughs",
+      "url": "https://discourse.openrobotics.org/t/community-feedback-wanted-intuitive-robotics-math-and-paper-walkthroughs/56797",
+      "summary": "Hi everyone, My friends and I are exploring the idea of creating beginner-friendly learning resources that explain robotics mathematics and classic robotics papers with a strong focus on intuition, derivations, and practical implementation, not just the final...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/smiley.png?v=15",
+      "publishedAt": "2026-07-20T08:27:52.000Z",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
