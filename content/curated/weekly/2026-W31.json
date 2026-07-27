@@ -1,0 +1,40 @@
+{
+  "week": "2026-W31",
+  "collectedAt": "2026-07-27T15:21:55.448Z",
+  "windowStart": "2026-07-27T00:00:00.000Z",
+  "windowEnd": "2026-08-03T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Stop recording huge rosbags: Can we capture only the exact perception frame that caused a ROS latency spike?",
+      "url": "https://discourse.openrobotics.org/t/stop-recording-huge-rosbags-can-we-capture-only-the-exact-perception-frame-that-caused-a-ros-latency-spike/56991",
+      "summary": "Hi everyone, Recently I have been thinking about a very practical debugging problem in ROS / ROS2 perception pipelines, especially for AMRs and mobile robots. When a robot behaves strangely in the field, the usual workflow is often: rosbag record everything.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/1/7/17e58216189cda386d971174e4a443808b44a93f_2_690x388.jpeg",
+      "publishedAt": "2026-07-27T12:44:24.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "summary": "Hugging Face Blog publicó una actualización: NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics.",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "publishedAt": "2026-07-27T09:32:20.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68c1279544f671330c604f4c/Cj0RZwvOSUhFGFEFKgyDw.png",
+      "score": 18,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "source": "OpenAI Blog",
+      "category": "industry",
+      "publishedAt": "2026-07-27T03:30:00.000Z",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
