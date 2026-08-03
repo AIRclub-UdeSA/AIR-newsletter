@@ -1,0 +1,30 @@
+{
+  "week": "2026-W32",
+  "collectedAt": "2026-08-03T15:23:17.821Z",
+  "windowStart": "2026-08-03T00:00:00.000Z",
+  "windowEnd": "2026-08-10T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "AGIBOT’s foundation model tops benchmark test for audio-visual reasoning",
+      "url": "https://roboticsandautomationnews.com/2026/08/03/agibots-foundation-model-tops-benchmark-test-for-audio-visual-reasoning/103832/",
+      "summary": "AGIBOT says its WITA-Omni Preview multimodal foundation model has achieved the highest score on the Daily-Omni audio-visual reasoning benchmark, outperforming models from Alibaba, Google and ByteDance.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-08-03T09:29:28.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/AGIBOT-foundation-model-2.png",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "How Automation Companies Add AI Without Locking into One Provider",
+      "url": "https://roboticsandautomationnews.com/2026/08/03/how-automation-companies-add-ai-without-locking-into-one-provider/103847/",
+      "summary": "Automation and robotics have always been about combining reliable hardware with increasingly capable software. Over the last few years, the software half of that equation has shifted decisively toward artificial intelligence.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-08-03T15:16:27.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/api-mart-1.png",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
