@@ -1,0 +1,30 @@
+{
+  "week": "2026-W33",
+  "collectedAt": "2026-08-10T13:52:03.366Z",
+  "windowStart": "2026-08-10T00:00:00.000Z",
+  "windowEnd": "2026-08-17T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "ROS 2 Based Face Tracking Display Control with PiPER Robotic Arm",
+      "url": "https://discourse.openrobotics.org/t/ros-2-based-face-tracking-display-control-with-piper-robotic-arm/57270",
+      "summary": "0.Introduction This project demonstrates a vision-based smart ergonomic workstation built with an AgileX PiPER 6-DoF robotic arm, Orbbec RGB-D camera, and ROS 2.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/6/6/6646e96e7b608cac3c8535f1a1ac9ef7772dd108.jpeg",
+      "publishedAt": "2026-08-10T02:50:19.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "summary": "Hugging Face Blog publicó una actualización: Meta is back with Muse Glimmer: local, agentic, multimodal, and open source.",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "imageUrl": "https://huggingface.co/blog/assets/muse-glimmer/thumbnail.png",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
