@@ -1,0 +1,58 @@
+{
+  "week": "2026-W34",
+  "collectedAt": "2026-08-17T13:14:18.653Z",
+  "windowStart": "2026-08-17T00:00:00.000Z",
+  "windowEnd": "2026-08-24T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Generate 1M strictly-optimal robot paths in ~7 s of compute — free API tier for simulation & training datasets",
+      "url": "https://discourse.openrobotics.org/t/generate-1m-strictly-optimal-robot-paths-in-7-s-of-compute-free-api-tier-for-simulation-training-datasets/57439",
+      "summary": "If you’re running warehouse scenes in Gazebo and need ground-truth optimal paths — for layout studies, dataset generation, or evaluating learned planners against BFS-exact references — this might save you hours. The problem: generating optimal paths is slow.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-08-17T00:44:31.000Z",
+      "score": 26,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Uber and Zipline Partner to Bring Drone Delivery to Millions of Americans Share",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/08/17/uber-and-zipline-partner-to-bring-drone-delivery-to-millions-of-americans-share/26957",
+      "summary": "-Strategic partnership targeting one million drone deliveries daily by the end of 2029, with first deliveries later this year. -Drone delivery on Uber Eats will launch across existing Zipline markets and target expansion into dozens of US cities.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-08-17T13:09:04.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Exstrike Real TIme Vision & Safety infrastructure for Autonomous Systems & Tactical Robotics",
+      "url": "https://discourse.openrobotics.org/t/exstrike-real-time-vision-safety-infrastructure-for-autonomous-systems-tactical-robotics/57440",
+      "summary": "Hey guys, I’m building Exstrike. It’s a real-time safety filters (using Control Barrier Functions + computer vision) designed to prevent physical crashes when autonomous robots or AI navigation models mess up.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-08-17T00:44:39.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Roboto Agents: agentic triage, root cause analysis, and data curation for rosbags and MCAP",
+      "url": "https://discourse.openrobotics.org/t/roboto-agents-agentic-triage-root-cause-analysis-and-data-curation-for-rosbags-and-mcap/57438",
+      "summary": "Hi ROS Community, Benji from Roboto here. At ROSCon in October last year , we previewed an early experiment: could an AI agent investigate robotics data and help find the cause of a failure? As it turns out, the answer was yes.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-08-17T00:37:36.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Diligent Robotics, a Serve Robotics Company, Begins Rolling Out Moxi 2.0",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/08/17/diligent-robotics-a-serve-robotics-company-begins-rolling-out-moxi-20/26959",
+      "summary": "The next-generation hardware and AI delivers faster, more reliable hospital logistics and marks the introduction of a new robotic World Model.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-08-17T13:13:08.000Z",
+      "score": 14,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
