@@ -1,0 +1,30 @@
+{
+  "week": "2026-W35",
+  "collectedAt": "2026-08-24T13:29:08.883Z",
+  "windowStart": "2026-08-24T00:00:00.000Z",
+  "windowEnd": "2026-08-31T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Humanoid developer Neura acquires cleaning automation company Adlatus Robotics",
+      "url": "https://roboticsandautomationnews.com/2026/08/24/humanoid-developer-neura-acquires-cleaning-automation-company-adlatus-robotics/104422/",
+      "summary": "Neura Robotics is expanding its physical AI ecosystem into another key application area. Neura Mobile Robots is acquiring 100 percent of the shares in Adlatus Robotics, an established provider of autonomous cleaning robotics.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-08-24T08:27:30.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Adlatus-NEURA-1.jpeg",
+      "score": 42,
+      "selectionReason": "fecha o inscripción accionable, idea técnica construible"
+    },
+    {
+      "title": "These tiny drones are powered by sound",
+      "url": "https://robohub.org/these-tiny-drones-are-powered-by-sound/",
+      "summary": "The MICROBS Lab’s microfliers. 2026 EPFL/MICROBS – CC-BY-SA 4.0. By Celia Luterbacher When you blow air across the neck of a bottle, you’re not just producing a pleasant tone: you’re also demonstrating a phenomenon called Helmholtz resonance.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-08-24T09:53:49.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/08/2216x1244-1024x576.jpg",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    }
+  ]
+}
