@@ -1,0 +1,60 @@
+{
+  "week": "2026-W36",
+  "collectedAt": "2026-08-31T19:10:33.386Z",
+  "windowStart": "2026-08-31T00:00:00.000Z",
+  "windowEnd": "2026-09-07T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "A soft 3D-printed robotic hand that gently grips everything from eggs to a 1 kg water bottle",
+      "url": "https://techxplore.com/news/2026-08-soft-3d-robotic-gently-eggs.html",
+      "summary": "3D printers that once could only produce rigid objects can now create products as soft and stretchable as rubber. A team of Korean researchers used AI to identify the optimal \"recipe\" for a material that can be printed into complex shapes while stretching to...",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-a-soft-2.jpg",
+      "publishedAt": "2026-08-31T13:00:08.000Z",
+      "score": 28,
+      "selectionReason": "encaja con equipos estudiantiles"
+    },
+    {
+      "title": "When expressive humanoid robots are awkward, people become wary – new brain study",
+      "url": "https://robohub.org/when-expressive-humanoid-robots-are-awkward-people-become-wary-new-brain-study/",
+      "summary": "Photo by Alex Knight on Unsplash. By Hasan Ayaz, Drexel University; Ewart J. de Visser, United States Air Force Academy; Frank Krueger, George Mason University, and Yigit Topoglu, United States Air Force Academy People become more suspicious of a humanoid...",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-08-31T09:18:24.000Z",
+      "score": 28,
+      "selectionReason": "encaja con equipos estudiantiles"
+    },
+    {
+      "title": "[GSoC 2026] QA of Reset of Core Systems",
+      "url": "https://discourse.openrobotics.org/t/gsoc-2026-qa-of-reset-of-core-systems/57775",
+      "summary": "[GSoC 2026] QA of Reset of Core Systems Organization: Open Robotics Mentors: Arjo Chakravarty ( @arjo129 ) Student: Yimo ( GitHub ) Project page: QA of Reset of Core Systems Hello everyone, This summer I worked on Gazebo’s core plugin reset path, mentored by...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-08-31T06:48:53.000Z",
+      "score": 28,
+      "selectionReason": "encaja con equipos estudiantiles"
+    },
+    {
+      "title": "Agri Spray Drones Announces Next Chapter as Agricultural Drone Manufacturer and Technology Company",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/08/31/agri-spray-drones-announces-next-chapter-as-agricultural-drone-manufacturer-and-technology-company-/27015",
+      "summary": "Company outlines U.S. manufacturing roadmap and looks ahead to the future of spray drone technology.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-08-31T13:03:49.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Animal-like and anime faces boost social robots' emotional appeal, tests suggest",
+      "url": "https://techxplore.com/news/2026-08-animal-anime-boost-social-robots.html",
+      "summary": "Giving robot companions animal-like or anime-style faces and voices could maximize their emotional appeal to users, according to new research that could help guide the growing field of social robotics.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-could-guide-t.jpg",
+      "publishedAt": "2026-08-31T14:20:05.000Z",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
