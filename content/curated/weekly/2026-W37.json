@@ -1,0 +1,40 @@
+{
+  "week": "2026-W37",
+  "collectedAt": "2026-09-07T17:48:30.304Z",
+  "windowStart": "2026-09-07T00:00:00.000Z",
+  "windowEnd": "2026-09-14T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "NASA Space Roboticist Challenge: propose an experiment for a 7-DoF arm in orbit (U.S.; registration closes Sep 23)",
+      "url": "https://discourse.openrobotics.org/t/nasa-space-roboticist-challenge-propose-an-experiment-for-a-7-dof-arm-in-orbit-u-s-registration-closes-sep-23/57919",
+      "summary": "Sharing an opportunity that may interest people working on manipulation, autonomy, and motion planning. NASA’s Space Roboticist Challenge (part of the Fly Foundational Robots mission) is opening access to a 7-Degree-of-Freedom (7-DoF) robotic arm operating in...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-09-07T02:32:30.000Z",
+      "score": 66,
+      "selectionReason": "noticia de competencia, fecha o inscripción accionable, idea técnica construible"
+    },
+    {
+      "title": "What is the hardest part of learning ROS 2 as a beginner",
+      "url": "https://discourse.openrobotics.org/t/what-is-the-hardest-part-of-learning-ros-2-as-a-beginner/57917",
+      "summary": "I teach a robotics lab and my students lose about a week each semester to workspace and sourcing problems before they write any robot code.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-09-07T02:31:49.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/7/4/7440d7d64419ea65e2220645fa630a8c23ade8fa_2_1024x576.jpeg",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Could robots help tackle loneliness? BBC’s Ann Droid raises questions about the future of care",
+      "url": "https://robohub.org/could-robots-help-tackle-loneliness-bbcs-ann-droid-raises-questions-about-the-future-of-care/",
+      "summary": "By Maria Jose Galvez Trigo, Cardiff University and Paul Willis, Cardiff University New BBC sitcom Ann Droid imagines a near future in which robots provide care and companionship to older people at home.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-09-07T09:33:36.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/08/antranias-human-511848-1024x740.jpg",
+      "score": 18,
+      "selectionReason": "encaja con equipos estudiantiles"
+    }
+  ]
+}
