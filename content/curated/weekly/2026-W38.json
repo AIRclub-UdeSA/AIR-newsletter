@@ -1,0 +1,50 @@
+{
+  "week": "2026-W38",
+  "collectedAt": "2026-09-14T18:07:12.825Z",
+  "windowStart": "2026-09-14T00:00:00.000Z",
+  "windowEnd": "2026-09-21T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "source": "OpenAI Blog",
+      "category": "industry",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Proposal: report the no-perturbation arm next to any robot policyresilience number",
+      "url": "https://discourse.openrobotics.org/t/proposal-report-the-no-perturbation-arm-next-to-any-robot-policyresilience-number/58099",
+      "summary": "Short proposal, and I would like to be argued with rather than agreed with. When someone reports that a learned policy failed under some condition- a visual change, a reworded instruction, a sensor dropout- the number is almost always single-arm: run the...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-09-14T00:26:20.000Z",
+      "score": 30,
+      "selectionReason": "fecha o inscripción accionable"
+    },
+    {
+      "title": "Nav2 Ready v0.1.0 — A CLI readiness checker for custom Nav2 robots",
+      "url": "https://discourse.openrobotics.org/t/nav2-ready-v0-1-0-a-cli-readiness-checker-for-custom-nav2-robots/58095",
+      "summary": "Hi everyone, I have released Nav2 Ready v0.1.0 , an open-source CLI tool that checks whether a custom ROS 2 robot meets the basic runtime prerequisites for using Nav2.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/7/b/7b7319a7fdac1542ff782a0eaf7facb5d76b7e64_2_690x345.png",
+      "publishedAt": "2026-09-14T00:24:30.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Robots in society, business and culture: August 2026",
+      "url": "https://robohub.org/robots-in-society-business-and-culture-august-2026/",
+      "summary": "Credit: Baumis Robots (Karlsruhe Institute of Technology). By Emmet Cole In our new monthly series, we showcase a selection of robotics stories from society, business, research, and culture, as we track the field’s ongoing journey from specialized industrial...",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-09-14T09:01:21.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-14.49.46-1024x596.jpeg",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
