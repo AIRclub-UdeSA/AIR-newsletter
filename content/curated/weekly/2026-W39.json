@@ -1,0 +1,70 @@
+{
+  "week": "2026-W39",
+  "collectedAt": "2026-09-21T18:15:04.933Z",
+  "windowStart": "2026-09-21T00:00:00.000Z",
+  "windowEnd": "2026-09-28T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "RS South Africa Supports Next-Generation Edge Artificial Intelligence (AI) With NVIDIA Jetson Orin Nano 2",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/09/21/rs-south-africa-supports-next-generation-edge-artificial-intelligence-ai-with-nvidia-jetson-orin-nano-2/27126",
+      "summary": "New compact robotics computer opens new possibilities for intelligent machines, robotics and vision AI.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-09-21T12:41:08.000Z",
+      "score": 42,
+      "selectionReason": "fecha o inscripción accionable, idea técnica construible"
+    },
+    {
+      "title": "MOOS-IvP Skills plugin for coding agents: v1.4.12",
+      "url": "https://discourse.openrobotics.org/t/moos-ivp-skills-plugin-for-coding-agents-v1-4-12/58296",
+      "summary": "Hey everyone, I’m Charles Benjamin, a CS undergrad from McGill and core contributor to the MOOS-IvP community. I’ve been building MOOS-IvP Skills , a collection of agent skills for developing and validating software in MOOS-IvP , an open-source autonomy...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/6/e/6e6f3de6144cd63240d56e84c180836d55cda26c_2_690x358.png",
+      "publishedAt": "2026-09-21T13:32:43.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Simbe Surpasses 3,000 Units, Marking the Largest Autonomous Shelf Intelligence Fleet in Retail",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/09/21/simbe-surpasses-3000-units-marking-the-largest-autonomous-shelf-intelligence-fleet-in-retail/27127",
+      "summary": "A decade of real-world autonomy and enterprise growth positions Simbe to power the physical intelligence layer for retail.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-09-21T13:01:47.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "source": "OpenAI Blog",
+      "category": "industry",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Mars rovers give scientists a ground-level view of the red planet – peek inside their NASA control room",
+      "url": "https://robohub.org/mars-rovers-give-scientists-a-ground-level-view-of-the-red-planet-peek-inside-their-nasa-control-room/",
+      "summary": "Each day in the control room of the Curiosity rover is jam-packed with important scientific decisions, as a NASA project scientist describes.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-09-21T09:38:58.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/08/file-20260807-50-uvk49f.jpg-1024x683.jpg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "ABB Robotics E-Device simplifies robot interaction on customers' own devices",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/09/21/abb-robotics-e-device-simplifies-robot-interaction-on-customers-own-devices/27130",
+      "summary": "-E-Device brings operation, programming and monitoring to customers' own tablets and PCs -Reduces training requirements and speeds up deployment through a consistent user experience across all OmniCore-powered robots and cobots -Enables safe and flexible...",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-09-21T17:01:55.000Z",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
