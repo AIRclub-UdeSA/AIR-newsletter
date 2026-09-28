@@ -1,0 +1,50 @@
+{
+  "week": "2026-W40",
+  "collectedAt": "2026-09-28T19:45:56.173Z",
+  "windowStart": "2026-09-28T00:00:00.000Z",
+  "windowEnd": "2026-10-05T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Linorobot2 Cockpit: In-Browser Web Supervisor, Turnkey micro-ROS & 1-Click Nav2 Autonomy (Call for Testers)",
+      "url": "https://discourse.openrobotics.org/t/linorobot2-cockpit-in-browser-web-supervisor-turnkey-micro-ros-1-click-nav2-autonomy-call-for-testers/58474",
+      "summary": "Hi ROS community, We are excited to share Linorobot2 Cockpit GitHub - hippo5329/linorobot2-cockpit: 1-Click mobile robot autonomy from browser to bare microcontroller: unified micro-ROS firmware, realistic physics simulation, SLAM & Nav2 supervisor.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-09-28T16:26:19.000Z",
+      "score": 42,
+      "selectionReason": "fecha o inscripción accionable, idea técnica construible"
+    },
+    {
+      "title": "SiMa.ai Reaches $1.45B Valuation with $500 Million in Total Funding to Scale Physical AI in Humanoids, Automotive, and Drones",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/09/28/simaai-reaches-145b-valuation-with-500-million-in-total-funding-to-scale-physical-ai-in-humanoids-automotive-and-drones/27170",
+      "summary": "Fidelity Management & Research Company and Amplify co-led the oversubscribed $150 million round with AllianceBernstein, Baron Capital, J.P. Morgan, and the State of Michigan as new investors.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-09-28T13:12:32.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Open source SenseRobot Chess Clone - No ROS required",
+      "url": "https://discourse.openrobotics.org/t/open-source-senserobot-chess-clone-no-ros-required/58476",
+      "summary": "Hi everyone, Here is my custom-built Sense Chess Robot Clone! Inspired by the famous, high-end SenseRobot AI Chess Trainer, I wanted to see if I could replicate its physical piece-moving mechanics, AI vision tracking, and robotic arm precision using DIY...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/hammer_and_wrench.png?v=15",
+      "publishedAt": "2026-09-28T16:26:55.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Small, medium or large, a robotic fish maintains its swimming ability",
+      "url": "https://robohub.org/small-medium-or-large-a-robotic-fish-maintains-its-swimming-ability/",
+      "summary": "The scalable robot ScaFi. 2026 CREATE Lab EPFL. CC BY SA-4.0. Propeller-powered underwater vehicles have long helped scientists explore and monitor aquatic environments.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-09-28T11:24:15.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/09/2216x1244-1-1024x575.jpg",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
