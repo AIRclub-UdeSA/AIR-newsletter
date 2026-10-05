@@ -1,0 +1,72 @@
+{
+  "week": "2026-W41",
+  "collectedAt": "2026-10-05T20:43:50.010Z",
+  "windowStart": "2026-10-05T00:00:00.000Z",
+  "windowEnd": "2026-10-12T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "SafeWorld emerges from stealth with $12.2 million to develop robot safety simulation technology",
+      "url": "https://roboticsandautomationnews.com/2026/10/05/safeworld-emerges-from-stealth-with-12-2-million-to-develop-robot-safety-simulation-technology/105530/",
+      "summary": "SafeWorld, an AI lab building robot safety simulation technologies, has emerged from stealth with $12.2 million in seed funding co-led by Shine Capital and a16z Speedrun, along with Box Group, Carnegie Mellon University Endowment, Innovation Endeavors, SV...",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-05T19:32:44.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Safeworld-founders.jpg",
+      "score": 48,
+      "selectionReason": "encaja con equipos estudiantiles, idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Research could guide the future design of social robots",
+      "url": "https://robohub.org/research-could-guide-the-future-design-of-social-robots/",
+      "summary": "By the University of Glasgow Giving robot companions animal-like or anime-style faces and voices could maximise their emotional appeal to users, according to new research which could help guide the growing field of social robotics.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-10-05T10:00:33.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/10/Screenshot-2026-09-27-at-10.29.52-1-1024x599.png",
+      "score": 36,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "Wing and Walmart to expand ‘largest drone delivery network’ in the US",
+      "url": "https://roboticsandautomationnews.com/2026/10/05/wing-and-walmart-to-expand-largest-drone-delivery-network-in-the-us/105521/",
+      "summary": "Wing and Walmart are expanding their drone delivery service to Denver and Seattle metros in 2027, bringing fast, reliable and convenient home delivery of thousands of Walmart items to nearly 20 major US metros.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-05T19:07:28.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/wing-and-walmart-1.jpeg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Mouser Now Shipping New NXP Semiconductors Ara240 Discrete Neural Processing Unit for AI, Edge, Industrial, and Robotics Applications",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/10/05/mouser-now-shipping-new-nxp-semiconductors-ara240-discrete-neural-processing-unit-for-ai-edge-industrial-and-robotics-applications/27203",
+      "summary": "The Ara240 DNPU enables real-time generative AI, industrial automation systems, autonomous robots, smart infrastructure, advanced machine interface (HMI) platforms or edge applications.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-10-05T18:07:36.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do.",
+      "source": "MIT Technology Review - AI",
+      "category": "research",
+      "publishedAt": "2026-10-05T08:00:00.000Z",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "RoboStacker: describe your robot, get a ROS 2 stack and a workspace to build (feedback welcome)",
+      "url": "https://discourse.openrobotics.org/t/robostacker-describe-your-robot-get-a-ros-2-stack-and-a-workspace-to-build-feedback-welcome/58579",
+      "summary": "Hi everyone, I’ve been building RoboStacker ( https://robostacker.app ), a free tool that helps you plan the software for a ROS 2 robot, and I’d love to hear from people at every level, from a first robot to a production fleet.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-10-05T00:13:51.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
