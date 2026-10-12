@@ -1,0 +1,61 @@
+{
+  "week": "2026-W42",
+  "collectedAt": "2026-10-12T21:20:37.004Z",
+  "windowStart": "2026-10-12T00:00:00.000Z",
+  "windowEnd": "2026-10-19T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Water-pumping robot worms its way over rugged coastal terrain",
+      "url": "https://newatlas.com/robotics/worma-weight-shifting-worm-robot/",
+      "summary": "Biomimicry involves borrowing ideas from nature to solve engineering problems. This is what one of the research teams at New York University's Tandon School of Engineering specializes in.",
+      "source": "New Atlas Robotics",
+      "category": "industry",
+      "imageUrl": "https://assets.newatlas.com/dims4/default/d1b94a5/2147483647/strip/true/crop/2500x1666+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Ffb%2F59%2Fecdc58c94dc3aa1f5ad14a363268%2Fscreenshot-2026-10-07-at-11-10-53-am.jpeg",
+      "publishedAt": "2026-10-12T00:35:00.000Z",
+      "score": 36,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "SLS PA12 Robot Tooling: A Practical Qualification Guide",
+      "url": "https://roboticsandautomationnews.com/2026/10/12/sls-pa12-robot-tooling-a-practical-qualification-guide/105821/",
+      "summary": "Qualifying SLS PA12 Robot Tooling Before it Enters a Production Cell A robot gripper can look convincing on a CAD screen and still fail its first week on the line. A fingertip may slip on a slightly different part finish.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-12T15:22:14.000Z",
+      "score": 30,
+      "selectionReason": "fecha o inscripción accionable"
+    },
+    {
+      "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
+      "url": "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
+      "summary": "By Wai-keung Fung, Cardiff Metropolitan University At the recent World Humanoid Robot Games 2026 in Beijing, robots sprinted, boxed, played football and tackled tasks inspired by factories, restaurants and emergency situations.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-10-12T07:51:21.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/10/sophiamartin-clothes-pins-8281931-1024x683.jpg",
+      "score": 28,
+      "selectionReason": "encaja con equipos estudiantiles"
+    },
+    {
+      "title": "ABB Robotics enables anyone to train, deploy and optimize AI-powered robotics applications",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/10/12/abb-robotics-enables-anyone-to-train-deploy-and-optimize-ai-powered-robotics-applications/27230",
+      "summary": "-ABB Robotics expands OmniCore EyeMotion with AI Robot Trainer to simplify the deployment and scaling of AI-powered vision applications -Connects image acquisition, AI model training, deployment and continuous improvement in a single industrial workflow,...",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-10-12T16:46:43.000Z",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    },
+    {
+      "title": "Why Warehouse Automation Still Depends on Equipment Uptime",
+      "url": "https://roboticsandautomationnews.com/2026/10/12/why-warehouse-automation-still-depends-on-equipment-uptime/105829/",
+      "summary": "Warehouse automation is advancing quickly. Autonomous mobile robots, automated storage and retrieval systems, robotic picking cells, autonomous forklifts, conveyors, vision systems and increasingly sophisticated warehouse software are changing how products...",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-12T15:52:00.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/black-equipment-vehicle-1.jpg.jpeg",
+      "score": 18,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
