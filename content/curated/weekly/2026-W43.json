@@ -1,0 +1,74 @@
+{
+  "week": "2026-W43",
+  "collectedAt": "2026-10-19T18:46:37.084Z",
+  "windowStart": "2026-10-19T00:00:00.000Z",
+  "windowEnd": "2026-10-26T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "The Robot Group opens UK enquiries for X-Humanoid robots",
+      "url": "https://roboticsandautomationnews.com/2026/10/19/the-robot-group-opens-uk-enquiries-for-x-humanoid-robots/106030/",
+      "summary": "The Robot Group, an authorised UK distributor for X-Humanoid (developed by the Beijing Humanoid Robot Innovation Center), is inviting expressions of interest from UK businesses and research organisations exploring the company’s TianGong and Tianyi humanoid...",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-19T11:51:09.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/robot-group-uk-X-HUMANOID-1.jpg",
+      "score": 38,
+      "selectionReason": "fecha o inscripción accionable, valor técnico para aprender"
+    },
+    {
+      "title": "The Robot I Didn’t Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "summary": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 .",
+      "source": "IEEE Spectrum Robotics",
+      "category": "research",
+      "imageUrl": "https://spectrum.ieee.org/media-library/author-jonathan-hurst-a-tall-slim-white-man-wearing-a-black-long-sleeve-shirt-and-dark-jeans-stands-next-to-his-digit-5-humano.jpg?id=68441166&width=980",
+      "publishedAt": "2026-10-19T13:00:03.000Z",
+      "score": 36,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap",
+      "url": "https://roboticsandautomationnews.com/2026/10/19/new-3-67-million-yorkshire-robotics-hub-will-help-manufacturers-bridge-automation-gap/106034/",
+      "summary": "The University of Bradford is leading a £3.67 million Yorkshire Robotics Adoption Hub after securing £2.75 million in funding from Innovate UK to help manufacturers adopt robotics and automation technologies.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-19T12:01:33.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Yorkshire-Robotics-Hub-1.jpeg",
+      "score": 28,
+      "selectionReason": "encaja con equipos estudiantiles"
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone.",
+      "source": "MIT Technology Review - AI",
+      "category": "research",
+      "publishedAt": "2026-10-19T09:08:05.000Z",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "QCraft partners with HERE Technologies to expand autonomous driving in Europe",
+      "url": "https://roboticsandautomationnews.com/2026/10/19/qcraft-partners-with-here-technologies-to-advance-localized-autonomous-driving-in-europe/106020/",
+      "summary": "QCraft, an autonomous driving technology company, signed a memorandum of understanding with HERE Technologies, a mapping and location data platform, at an event called HERE Directions 2026 in Munich.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-19T08:48:15.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/qcraft-here-1.jpg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "robot-data-diff: episode-aware diffs for LeRobot datasets",
+      "url": "https://discourse.openrobotics.org/t/robot-data-diff-episode-aware-diffs-for-lerobot-datasets/58956",
+      "summary": "I built a small CLI for a problem I kept running into: you retrain a policy and it gets worse — was it the code or the data? robot-data-diff diffs any two revisions of a LeRobot dataset directly — local dirs or HF repo ids (v2.1 + v3.0).",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-10-19T16:16:05.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 18,
+      "selectionReason": "valor técnico para aprender"
+    }
+  ]
+}
