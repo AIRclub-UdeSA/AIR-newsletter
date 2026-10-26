@@ -1,0 +1,71 @@
+{
+  "week": "2026-W44",
+  "collectedAt": "2026-10-26T18:45:35.473Z",
+  "windowStart": "2026-10-26T00:00:00.000Z",
+  "windowEnd": "2026-11-02T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Schaeffler opens lighthouse factory in Taicang where ‘humanoids will make humanoids’",
+      "url": "https://roboticsandautomationnews.com/2026/10/26/schaeffler-opens-lighthouse-factory-in-taicang-where-humanoids-will-make-humanoids/106303/",
+      "summary": "Motion technology company Schaeffler has opened a state-of-the-art lighthouse factory for humanoid robotics in Taicang, China.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-26T06:42:24.000Z",
+      "score": 30,
+      "selectionReason": "fecha o inscripción accionable"
+    },
+    {
+      "title": "BTick — Behavior Tree Monitoring & Debugging for ROS 2",
+      "url": "https://discourse.openrobotics.org/t/btick-behavior-tree-monitoring-debugging-for-ros-2/59220",
+      "summary": "Hi ROS community! Working with Behavior Trees in robotics? Meet BTick, a powerful tool designed to make monitoring, debugging, and analyzing BehaviorTree.CPP applications easier and more interactive.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/7/5/75c54a41282b763aa11d13523c7076af8e638609_2_690x388.png",
+      "publishedAt": "2026-10-26T15:08:44.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Founding Robotics Engineer - Subsea",
+      "url": "https://discourse.openrobotics.org/t/founding-robotics-engineer-subsea/59209",
+      "summary": "Posting here on ivandor’s advice! I’m Nick, and we’re building autonomous underwater vehicles (AUVs). We have vehicles in the water and we’re scaling up to multi-vehicle ops with some fun engineering challenges, so we’re looking for a founding robotics...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-10-26T13:30:16.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Robots in Society, Business and Culture: September 2026",
+      "url": "https://robohub.org/robots-in-society-business-and-culture-september-2026/",
+      "summary": "A walking robotic hand, from Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand, Amirhossein Kazemipour, Hehui Zheng, Robert Katzschmann.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-10-26T10:17:34.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/10/robot_hand-1024x797.jpeg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Interview with Arthur D. Little consultant: Europe emerging as battleground for global robotaxi race",
+      "url": "https://roboticsandautomationnews.com/2026/10/26/interview-with-arthur-d-little-consultant-europe-emerging-as-battleground-for-global-robotaxi-race/106309/",
+      "summary": "Europe is rapidly becoming one of the most closely watched regions in the global robotaxi race, as autonomous-driving companies from China and the West increasingly target the same cities for commercial expansion.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-26T09:36:35.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Bedrock Robotics raises $600 million to scale autonomous excavators across the US",
+      "url": "https://roboticsandautomationnews.com/2026/10/26/bedrock-robotics-raises-600-million-to-scale-autonomous-excavators-across-the-us/106337/",
+      "summary": "Bedrock Robotics has announced a $600 million Series C financing at a $4.1 billion post-money valuation, co-led by CapitalG and Emergence Capital.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-26T17:32:53.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Bedrock-Robotics-1.jpeg",
+      "score": 12,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
