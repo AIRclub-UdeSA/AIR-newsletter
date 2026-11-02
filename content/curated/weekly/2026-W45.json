@@ -1,0 +1,73 @@
+{
+  "week": "2026-W45",
+  "collectedAt": "2026-11-02T21:50:51.883Z",
+  "windowStart": "2026-11-02T00:00:00.000Z",
+  "windowEnd": "2026-11-09T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "TALOS HUB: Autonomous Flight and Pilot Assistance",
+      "url": "https://discourse.openrobotics.org/t/talos-hub-autonomous-flight-and-pilot-assistance/59429",
+      "summary": "Hello everyone, I’m a model aviation and flying enthusiast, and for some time I’ve been studying, designing and developing a software system for autonomous flight and pilot assistance.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-11-02T00:50:04.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Project TERRAIN = Seeking Independent Review of Robotics Navigation and Fault-Tolerance Simulation",
+      "url": "https://discourse.openrobotics.org/t/project-terrain-seeking-independent-review-of-robotics-navigation-and-fault-tolerance-simulation/59428",
+      "summary": "Hello Open Robotics community, I’d like to introduce Project TERRAIN, an independent robotics research project exploring navigation through uncertain environments, fault tolerance, and simulated safety-stop behavior.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/f/a/faa6095ecffc9a93413364166671c962a3f0570d_2_690x344.png",
+      "publishedAt": "2026-11-02T00:49:43.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "[GSoC 2026] Scalable Multi-Robot Simulation in ROS 2 and Gazebo",
+      "url": "https://discourse.openrobotics.org/t/gsoc-2026-scalable-multi-robot-simulation-in-ros-2-and-gazebo/59454",
+      "summary": "Organization: Open Robotics Contributor: Jiayi Cai ( @C88-YQ ) Mentor: Addisu Taddese ( @azeey ) Community Meeting Talk : Talk video ; Talk slides Project Overview Multi-robot simulation is widely used in robotics research and development, including warehouse...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/7/a/7aa4e07b1ee024239cd22b5ffe6b77f9bd66679d_2_516x256.jpeg",
+      "publishedAt": "2026-11-02T16:19:28.000Z",
+      "score": 26,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Humanoid AI connects walking and object handling without demonstrations of complete task sequences",
+      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html",
+      "summary": "A humanoid AI system has been developed that learns jointly from separately collected locomotion and object-manipulation data to perform multiple stages of a task in sequence.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-professor-songhwai.jpg",
+      "publishedAt": "2026-11-02T21:00:26.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Intrinsic Core released: Open-source, ROS-compatible real-time control, motion planning and more",
+      "url": "https://discourse.openrobotics.org/t/intrinsic-core-released-open-source-ros-compatible-real-time-control-motion-planning-and-more/59457",
+      "summary": "A couple of weeks ago during ROSCon, we released Intrinsic Core ( GitHub - intrinsic-ai/intrinsic-core: Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, real-time control framework for industrial robotics.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/a/3/a3b80fd1bc8a39f40402b4eb00dd286788c8640d_2_690x388.jpeg",
+      "publishedAt": "2026-11-02T18:13:28.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+      "summary": "Physical AI developers working with world models face two distinct challenges: adapting models to their sensors, tasks, and data, and getting those models into...",
+      "source": "NVIDIA Robotics Technical Blog",
+      "category": "tooling",
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-framework-tech-blog-600x338-5784057.webp",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
