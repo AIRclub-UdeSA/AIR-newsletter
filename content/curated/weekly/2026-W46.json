@@ -1,0 +1,71 @@
+{
+  "week": "2026-W46",
+  "collectedAt": "2026-11-09T22:35:37.156Z",
+  "windowStart": "2026-11-09T00:00:00.000Z",
+  "windowEnd": "2026-11-16T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "StrataSLAM: open-source multi-floor SLAM for ROS 2 (stairs, elevators, ramps, identical floors)",
+      "url": "https://discourse.openrobotics.org/t/strataslam-open-source-multi-floor-slam-for-ros-2-stairs-elevators-ramps-identical-floors/59649",
+      "summary": "Hi all, We have released StrataSLAM, an open-source multi-floor 3D SLAM for ROS 2 from the Intelligent Robotics Lab (Universidad Rey Juan Carlos).",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-11-09T08:43:47.000Z",
+      "score": 48,
+      "selectionReason": "encaja con equipos estudiantiles, idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to...",
+      "source": "MIT Technology Review - AI",
+      "category": "research",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRInfoysLubrizol-open-card-v3.png?resize=1200,600",
+      "score": 46,
+      "selectionReason": "noticia de competencia, idea técnica construible"
+    },
+    {
+      "title": "TC-PEBRAS is hosting a video competition! $250 awards, 3 min videos, due Dec 12, 2026",
+      "url": "https://discourse.openrobotics.org/t/tc-pebras-is-hosting-a-video-competition-250-awards-3-min-videos-due-dec-12-2026/59667",
+      "summary": "The IEEE RAS Technical Committee on Performance Evaluation and Benchmarking of Robotic and Automation Systems (TC-PEBRAS) is holding a video competition!",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/d/3/d38b4df2870805296f35236dea26b6f044599095_2_690x467.jpeg",
+      "publishedAt": "2026-11-09T20:25:26.000Z",
+      "score": 42,
+      "selectionReason": "noticia de competencia, valor técnico para aprender"
+    },
+    {
+      "title": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands",
+      "url": "https://roboticsandautomationnews.com/2026/11/09/nature-will-launches-50-billion-parameter-ai-model-for-dexterous-robot-hands/106855/",
+      "summary": "Nature Will, a physical AI lab dedicated to building physical AGI, has announced the launch of Natura-1, a 50-billion-parameter physical general foundation model for dexterous hand control and zero-shot instruction following in advanced robotics applications.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-11-09T19:39:03.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "source": "OpenAI Blog",
+      "category": "industry",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "score": 28,
+      "selectionReason": "encaja con equipos estudiantiles"
+    },
+    {
+      "title": "From TractEasy to TLD Robotics: A new chapter in autonomous airport operations",
+      "url": "https://roboticsandautomationnews.com/2026/11/09/from-tracteasy-to-tld-robotics-a-new-chapter-in-autonomous-airport-operations/106859/",
+      "summary": "After almost a decade of collaboration, the companies behind one of the more established autonomous vehicle programs in airport ground operations have brought their activities together under a single name: TLD Robotics.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-11-09T19:55:36.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/tld-robotics-airport-robots-1.jpg",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
