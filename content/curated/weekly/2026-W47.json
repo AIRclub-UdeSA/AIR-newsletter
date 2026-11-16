@@ -1,0 +1,73 @@
+{
+  "week": "2026-W47",
+  "collectedAt": "2026-11-16T22:24:10.695Z",
+  "windowStart": "2026-11-16T00:00:00.000Z",
+  "windowEnd": "2026-11-23T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "UWB 3D positioning for indoor drones and robots: drift-free absolute position for your SLAM/VIO stack, published as a ROS 2 topic (demo video)",
+      "url": "https://discourse.openrobotics.org/t/uwb-3d-positioning-for-indoor-drones-and-robots-drift-free-absolute-position-for-your-slam-vio-stack-published-as-a-ros-2-topic-demo-video/59854",
+      "summary": "Hi everyone, We are P-Square Inc., a team working on indoor positioning with UWB (Ultra-Wideband), Bluetooth and Wi-Fi. We’d like to share a short demo of our UWB 3D positioning for indoor drones and robots, and hear how people here get a reliable absolute...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-11-16T17:53:57.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 40,
+      "selectionReason": "encaja con equipos estudiantiles, idea técnica construible"
+    },
+    {
+      "title": "Robust Monocular VIO Tracking: High-Speed Handheld Tumbling, Indoor Hover, Outdoor Flight & Featureless Corridor Navigation",
+      "url": "https://discourse.openrobotics.org/t/robust-monocular-vio-tracking-high-speed-handheld-tumbling-indoor-hover-outdoor-flight-featureless-corridor-navigation/59829",
+      "summary": "Hi Everyone, I’d like to share an update on testing the tracking robustness and real-world performance of RoboBaton Neo , a monocular VIO (Visual-Inertial Odometry) module developed by the team behind MyRobotProject ( www.myrobotproject.com )—where the...",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-11-16T07:16:54.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/9/e/9e549f9ac4ed5682288f407e6dedc1e9dfaaacf8_2_1024x576.jpeg",
+      "score": 40,
+      "selectionReason": "encaja con equipos estudiantiles, idea técnica construible"
+    },
+    {
+      "title": "Redefining the integration model: What is valuable busyness? (Part 1)",
+      "url": "https://blog.robotiq.com/redefining-the-integration-model-what-is-valuable-busyness-for-system-integrators-part-1",
+      "summary": "What is \"Valuable Busyness\" for System Integrators? If you run or manage a robotics integration business, your engineering schedule is probably slammed, your technical team is pulling 60-hour weeks, and your sales pipeline is full.",
+      "source": "Robotiq Blog",
+      "category": "tooling",
+      "imageUrl": "https://blog.robotiq.com/hubfs/Alumotion/Alumotion%20(2).png",
+      "publishedAt": "2026-11-16T19:29:20.000Z",
+      "score": 36,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "A shared signal for humans and robots: Flexible display uses both color and near-infrared to communicate",
+      "url": "https://techxplore.com/news/2026-11-humans-robots-flexible-display-infrared.html",
+      "summary": "A joint research team from the Korea Advanced Institute of Science and Technology (KAIST) and Yonsei University has developed a flexible display that can communicate information to both humans and robots.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-flexibl-1.jpg",
+      "publishedAt": "2026-11-16T17:00:10.000Z",
+      "score": 36,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "Self-illuminating fibers reveal soft robot movements without batteries or complex electronic circuits",
+      "url": "https://techxplore.com/news/2026-11-illuminating-fibers-reveal-soft-robot.html",
+      "summary": "A research team led by Professor Soon Moon Jeong of the Department of Advanced Technology at the Graduate School of Engineering Practice at DGIST, has developed a new sensing technology for soft robots that emits light whenever the robot moves, providing an...",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/flashing-green-with-ev.jpg",
+      "publishedAt": "2026-11-16T16:20:05.000Z",
+      "score": 36,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "ROBOTERA Launches XHAND 1 Pro-U, Featured in NVIDIA's GR00T 2 DexUMI Demonstration",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/11/16/robotera-launches-xhand-1-pro-u-featured-in-nvidias-gr00t-2-dexumi-demonstration/27389",
+      "summary": "Designed for dexterous manipulation, XHAND 1 Pro-U features a human-like configuration and a 16-degree-of-freedom (DoF) mechanical structure closely aligned with NVIDIA GEAR Lab's DexUMI exoskeleton.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-11-16T13:00:28.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    }
+  ]
+}
