@@ -1,0 +1,74 @@
+{
+  "week": "2026-W48",
+  "collectedAt": "2026-11-24T00:09:21.064Z",
+  "windowStart": "2026-11-23T00:00:00.000Z",
+  "windowEnd": "2026-11-30T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
+      "url": "https://roboticsandautomationnews.com/2026/11/23/figure-ai-patents-wearable-system-for-teaching-humanoid-robots-through-human-movement/107567/",
+      "summary": "Figure AI has filed a patent application for a wearable robotic system designed to capture human arm movements and use the resulting data to train humanoid robots or control them remotely in real time.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-11-23T22:43:12.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/figure-ai-backpack-patentlyze-1.jpeg",
+      "score": 42,
+      "selectionReason": "fecha o inscripción accionable, idea técnica construible"
+    },
+    {
+      "title": "'Self-reflective' robot recognizes its limitations",
+      "url": "https://techxplore.com/news/2026-11-robot-limitations.html",
+      "summary": "A new AI model developed by researchers at the Technical University of Munich (TUM) teaches robots to recognize their own limitations.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-reflective-robot.jpg",
+      "publishedAt": "2026-11-23T14:48:16.000Z",
+      "score": 36,
+      "selectionReason": "encaja con equipos estudiantiles, valor técnico para aprender"
+    },
+    {
+      "title": "New drone prototype folds itself through gaps half its width during flight",
+      "url": "https://techxplore.com/news/2026-11-drone-prototype-gaps-width-flight.html",
+      "summary": "Drones are now commonly used in areas that are difficult for humans to access, but these spaces often have small or awkwardly shaped regions that are also difficult for drones to access.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drone-prototype-fo.jpg",
+      "publishedAt": "2026-11-23T18:20:07.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "OpenDroneLab: a containerised PX4 v1.17 + ROS 2 Jazzy + Gazebo Harmonic lab with scored VIO/EKF regression",
+      "url": "https://discourse.openrobotics.org/t/opendronelab-a-containerised-px4-v1-17-ros-2-jazzy-gazebo-harmonic-lab-with-scored-vio-ekf-regression/60162",
+      "summary": "Hi all, I’ve open-sourced OpenDroneLab, a sim-first drone autonomy lab. My goal was a current PX4 + ROS 2 SITL setup where every flight gets a score instead of just being watched.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/5/7/5730461a3aa1095004605108475cd78fd0fb2e0c.gif",
+      "publishedAt": "2026-11-23T16:06:15.000Z",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Researchers develop automated platform for testing metallic materials",
+      "url": "https://roboticsandautomationnews.com/2026/11/23/esearchers-develop-automated-platform-for-testing-metallic-materials/107560/",
+      "summary": "A new autonomous experimental platform enables fully automated experiments on the structural properties of metallic materials.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-11-23T22:33:12.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/STAMM-metal-image-high-res-resize.png",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "summary": "Hugging Face Blog publicó una actualización: RoboTrack: Point tracking for real-world robotic manipulation.",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "publishedAt": "2026-11-23T17:20:37.000Z",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
